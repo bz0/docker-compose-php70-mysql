@@ -1,6 +1,10 @@
 # docker-compose-php70-mysql
 Docker-ComposeによるPHP7.0+MySQL5.7構築
 
+参考記事：
+https://qiita.com/naga3/items/d1a6e8bbd0799159042e  
+https://qiita.com/naga3/items/be1a062075db9339762d  
+
 # 使い方
 
 ## docker-compose.ymlの修正
